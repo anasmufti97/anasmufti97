@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Meta Play Studio**
 
-- 🌱 I’m currently learning **Backend with Django, Python**
+- 🌱 I’m currently learning **** Python ****
 
 - 👯 I’m looking to collaborate on **open-source contributions, startup ideas, Transforming Ideas, Building the Next Big Thing in Tech & Innovation**
 
