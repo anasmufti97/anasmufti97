@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasmufti97" alt="anasmufti97" /></a> </p>
 
-- 🔭 I’m currently working on **Meta Play Studio**
-
-- 🌱 I’m currently learning **** Python ****
+- 🔭 I’m currently working on **Code Arck**
 
 - 👯 I’m looking to collaborate on **open-source contributions, startup ideas, Transforming Ideas, Building the Next Big Thing in Tech & Innovation**
 
